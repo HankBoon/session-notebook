@@ -18,6 +18,8 @@
 
 | `git push` | pushes commits to remote repsitory |
 
+| `git pull origin <branch name>` | pulls from named repository |
+
 | `git switch -c <branchname>` | create a new branch and switch to it |
 
 | `git switch <branchname>` | switch branches |
