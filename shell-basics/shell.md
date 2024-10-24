@@ -30,3 +30,4 @@
 | `git branch -a`                    | list all branches (local and remote)                                       |
 | `git branch -d <branchname>`       | delete a branch                                                            |
 | `git clone <repository-url>`       | clones a repository fro that URL into the folder you are in                |
+| `npm run start`                    | starts development server on localhost:3000                                |
